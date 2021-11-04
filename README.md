@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi! 👋 My name is Mikhail, but I prefer either Mike or MK.
+
+I'm a self-taught front-end developer and automation engineer. 
+<br>Most of my career has been in QA, but I'm working towards becoming a full-stack developer.
+<br>I have a passion for good design, elegant code, and strong coffee.
+<br>📫 You can reach me at: mikhail.kontorovich@gmail.com
+<br>⚡ Fun fact: I watched Fellowship of the Ring everyday one year in college. I used to be able to act out the entire movie word for word.
 
 <!--
 **mkontorovich/mkontorovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
