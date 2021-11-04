@@ -3,7 +3,7 @@
 I'm a self-taught front-end developer and automation engineer. 
 <br>I have a passion for good design, elegant code, and strong coffee.
 <br>📫 You can reach me at: mikhail.kontorovich@gmail.com
-<br>⚡ Fun fact: I watched Fellowship of the Ring everyday one year in college. I used to be able to act out the entire movie word for word.
+<br>⚡ Fun fact: I watched Fellowship of the Ring everyday one year in college.
 
 <!--
 **mkontorovich/mkontorovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
